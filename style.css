@@ -27,6 +27,8 @@
 }
 
 .sidebar {
+  display: grid;
+  grid-template-columns: 1fr;
   background: #2d2d2d;
   color: white;
   text-align: center;
