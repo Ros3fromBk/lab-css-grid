@@ -28,7 +28,8 @@
 
 .sidebar {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 100px;
+  grid-template-rows: 100px;
   background: #2d2d2d;
   color: white;
   text-align: center;
